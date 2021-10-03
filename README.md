@@ -7,8 +7,8 @@
 
 ### The program starts with simple Python GUI made in Kivy library with .kv file which is stuff like CSS.
 
+<img src="kivy_gui_image.png" width="500" height="400">
 
-![kivy_gui_image](kivy_gui_image.png)
 
 ### After choosing which data you need, a choropleth map will be generated. I may take some time.
 
