@@ -1,4 +1,4 @@
-# Covid_Map
+# Covid_Map_Last_day_only
 
 ## The program was created to learn how to use data frames, how to make choropleth manualy using matplotlib. GUI is written with "request \ response" method where backend and frontend are in separate files.
 
